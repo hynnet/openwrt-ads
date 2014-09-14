@@ -1,4 +1,3 @@
-
 address=/*.p2v.tudou.com*/127.0.0.1
 address=/0124498474f7c13ac9a2-6b191446002b31342189d56cabcf5227.r11.cf2.rackcdn.com/127.0.0.1
 address=/1.allyes.com.cn/127.0.0.1
