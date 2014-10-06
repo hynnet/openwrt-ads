@@ -1579,3 +1579,5 @@ address=/yktj.yzz.cn/127.0.0.1
 address=/yupptv.com/yupptvreports/stats.php/127.0.0.1
 address=/z.t.sohu.com/127.0.0.1
 address=/zapads.zapak.com/127.0.0.1
+address=/lm.licenses.adobe.com/127.0.0.1
+address=/lmlicenses.wip4.adobe.com/127.0.0.1
